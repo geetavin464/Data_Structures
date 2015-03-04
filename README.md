@@ -1,6 +1,4 @@
-Total Problems - 127 problems
-
-* __Linked Lists__ - 25 problems
+* __Linked Lists__
   1. Linked List
   2. Iterate though items in a linked list
   3. Insert into a linked list
@@ -145,4 +143,5 @@ Total Problems - 127 problems
   5. Merge sort
   6. Sorting Large data with merge sort
 
+Part 1 - 127 problems
 Part 2 - Advanced Algorithms in Ruby
