@@ -1,5 +1,5 @@
 * __Linked Lists__
-  1. Linked List
+  1. Implement a Linked List
   2. Iterate though items in a linked list
   3. Insert into a linked list
   4. Insert into a sorted linked list
